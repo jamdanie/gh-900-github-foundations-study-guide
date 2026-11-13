@@ -1,0 +1,422 @@
+[
+  {
+    "id": "GHF-001",
+    "domain": "basics",
+    "question": "You committed a note locally, but your branch on GitHub has not changed. What normally sends the commit to GitHub?",
+    "options": {
+      "A": "git fetch",
+      "B": "git push",
+      "C": "git status",
+      "D": "git add"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Fetch downloads remote information.",
+      "B": "Push sends local commits to the remote.",
+      "C": "Status reports local state.",
+      "D": "Add selects content for a commit."
+    },
+    "key_idea": "Commit is local; push shares commits.",
+    "source": "https://git-scm.com/docs/git"
+  },
+  {
+    "id": "GHF-002",
+    "domain": "basics",
+    "question": "You want to download remote history before deciding how to integrate it. Which command fits?",
+    "options": {
+      "A": "git pull",
+      "B": "git commit",
+      "C": "git fetch",
+      "D": "git init"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Pull also integrates according to its options.",
+      "B": "Commit records staged work.",
+      "C": "Fetch downloads remote history without merging it into your checked-out branch.",
+      "D": "Init creates a local repository."
+    },
+    "key_idea": "Fetch lets you inspect before integration.",
+    "source": "https://git-scm.com/docs/git-pull"
+  },
+  {
+    "id": "GHF-003",
+    "domain": "basics",
+    "question": "Which statement correctly distinguishes Git from GitHub?",
+    "options": {
+      "A": "Git tracks versions; GitHub hosts repositories and collaboration tools.",
+      "B": "Git requires GitHub for every commit.",
+      "C": "GitHub is the name of the Git staging area.",
+      "D": "Git and GitHub are interchangeable names."
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "Git works locally and GitHub adds hosted collaboration.",
+      "B": "A local commit does not require GitHub.",
+      "C": "The staging area belongs to Git.",
+      "D": "They are different tools with connected uses."
+    },
+    "key_idea": "Local version control can exist without a hosting account.",
+    "source": "https://code.visualstudio.com/docs/sourcecontrol/overview"
+  },
+  {
+    "id": "GHF-004",
+    "domain": "repositories",
+    "question": "A new reader needs setup instructions for this project. Which file is the best starting point?",
+    "options": {
+      "A": "CODEOWNERS",
+      "B": "LICENSE",
+      "C": "SECURITY.md",
+      "D": "README.md"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "CODEOWNERS maps paths to owners.",
+      "B": "LICENSE describes reuse terms.",
+      "C": "SECURITY describes reporting security concerns.",
+      "D": "README introduces the project and explains how to use it."
+    },
+    "key_idea": "README is the project entry point.",
+    "source": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes"
+  },
+  {
+    "id": "GHF-005",
+    "domain": "repositories",
+    "question": "Which file identifies people or teams responsible for particular repository paths?",
+    "options": {
+      "A": "CODEOWNERS",
+      "B": "README.md",
+      "C": "A local stash",
+      "D": "A Project view"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "CODEOWNERS maps file patterns to owners.",
+      "B": "README describes the project.",
+      "C": "A stash holds temporary local work.",
+      "D": "A Project view organizes tracked items."
+    },
+    "key_idea": "Ownership mapping is separate from review enforcement.",
+    "source": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"
+  },
+  {
+    "id": "GHF-006",
+    "domain": "repositories",
+    "question": "A repository is public and has no license file. Which conclusion is appropriate?",
+    "options": {
+      "A": "All uses are automatically permitted.",
+      "B": "Its reuse permissions need to be checked; public visibility is not an open-source license.",
+      "C": "Starring it gives you a commercial license.",
+      "D": "Forking removes all copyright restrictions."
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Visibility alone does not grant unrestricted reuse.",
+      "B": "Public access and licensing answer different questions.",
+      "C": "A star does not grant licensing rights.",
+      "D": "A fork does not erase the original terms or rights."
+    },
+    "key_idea": "Visibility is not a license.",
+    "source": "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository"
+  },
+  {
+    "id": "GHF-007",
+    "domain": "collaboration",
+    "question": "You want maintainers to review a branch change before integrating it. What should you open?",
+    "options": {
+      "A": "A secret gist",
+      "B": "A milestone",
+      "C": "A pull request",
+      "D": "A star"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "A gist shares a snippet.",
+      "B": "A milestone groups work.",
+      "C": "A PR proposes a change for discussion and review.",
+      "D": "A star saves or signals interest in a repository."
+    },
+    "key_idea": "A PR is a proposal to integrate a change.",
+    "source": "https://docs.github.com/en/get-started/using-github/github-flow"
+  },
+  {
+    "id": "GHF-008",
+    "domain": "collaboration",
+    "question": "A PR description says Closes #12. Under the normal keyword behavior, when does the referenced issue close?",
+    "options": {
+      "A": "When you stage a file",
+      "B": "When the PR is merged into the default branch",
+      "C": "When someone stars the repository",
+      "D": "When a branch is cloned"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Staging is local Git work.",
+      "B": "The default-branch merge triggers the closing relationship.",
+      "C": "Stars do not close linked issues.",
+      "D": "Cloning does not trigger issue closure."
+    },
+    "key_idea": "Link the issue and merge to the correct branch.",
+    "source": "https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue"
+  },
+  {
+    "id": "GHF-009",
+    "domain": "collaboration",
+    "question": "You need a simple static documentation website from repository content. Which feature fits?",
+    "options": {
+      "A": "Git stash",
+      "B": "A team role",
+      "C": "GitHub Mobile notifications",
+      "D": "GitHub Pages"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "Stash stores local work.",
+      "B": "Roles govern access.",
+      "C": "Notifications communicate activity.",
+      "D": "Pages hosts static site content."
+    },
+    "key_idea": "Pages publishes a static site.",
+    "source": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages"
+  },
+  {
+    "id": "GHF-010",
+    "domain": "modern",
+    "question": "You need a hosted development environment with a terminal to execute tests. Which option fits?",
+    "options": {
+      "A": "A Project board",
+      "B": "A secret gist",
+      "C": "GitHub Codespaces",
+      "D": "A repository star"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "A board tracks work.",
+      "B": "A gist stores snippets.",
+      "C": "Codespaces supplies a hosted development environment with compute.",
+      "D": "A star does not supply execution tools."
+    },
+    "key_idea": "Codespaces can run tools, not just edit text.",
+    "source": "https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces"
+  },
+  {
+    "id": "GHF-011",
+    "domain": "modern",
+    "question": "In an Actions workflow, what is a runner?",
+    "options": {
+      "A": "The machine that executes a job",
+      "B": "The title of a pull request",
+      "C": "A repository license",
+      "D": "The person who starred a repository"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "A runner provides the execution environment for a job.",
+      "B": "A PR title is metadata.",
+      "C": "A license describes reuse terms.",
+      "D": "Starring does not define a runner."
+    },
+    "key_idea": "The runner executes the job.",
+    "source": "https://docs.github.com/en/actions/get-started/understand-github-actions"
+  },
+  {
+    "id": "GHF-012",
+    "domain": "modern",
+    "question": "Copilot suggests a fix and generated tests. What is the best next step?",
+    "options": {
+      "A": "Merge because AI generated it",
+      "B": "Delete existing tests",
+      "C": "Assume the tests ran in chat",
+      "D": "Review the changes and run appropriate tests"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "Generated code can be incorrect.",
+      "B": "Existing tests may catch regressions.",
+      "C": "Generating test text is not proof of execution.",
+      "D": "Review and execution provide evidence about the proposal."
+    },
+    "key_idea": "AI suggestions still need verification.",
+    "source": "https://docs.github.com/en/copilot"
+  },
+  {
+    "id": "GHF-013",
+    "domain": "projects",
+    "question": "You want to see the same Project items in columns and in rows. What should you use?",
+    "options": {
+      "A": "Separate repositories for each layout",
+      "B": "Board and table views of the same Project",
+      "C": "Two forks",
+      "D": "Two LICENSE files"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Repositories are not needed to change a Project layout.",
+      "B": "Views present the same items in different layouts.",
+      "C": "Forks copy repositories, not layout settings.",
+      "D": "License files do not control views."
+    },
+    "key_idea": "A view changes presentation, not the underlying work.",
+    "source": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+  },
+  {
+    "id": "GHF-014",
+    "domain": "projects",
+    "question": "Your issue closed but its board item stayed In Progress. What should you check first?",
+    "options": {
+      "A": "Whether Git is installed locally",
+      "B": "The commit author font",
+      "C": "The Project workflow that updates Status on issue closure",
+      "D": "The number of stars"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Local Git installation does not set this Project automation.",
+      "B": "Font is unrelated.",
+      "C": "The workflow controls the intended status update.",
+      "D": "Stars do not drive this workflow."
+    },
+    "key_idea": "Issue state and Project Status are separate unless connected by automation.",
+    "source": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project"
+  },
+  {
+    "id": "GHF-015",
+    "domain": "projects",
+    "question": "What is the main purpose of a GitHub Project?",
+    "options": {
+      "A": "Plan and track work using issues, PRs, and fields",
+      "B": "Replace the Git commit history",
+      "C": "Store passwords for every member",
+      "D": "Provide a Python interpreter"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "Projects organize and visualize work.",
+      "B": "Git history remains in the repository.",
+      "C": "Projects are not a password vault.",
+      "D": "A Project does not provide code execution."
+    },
+    "key_idea": "Planning tools organize work; they do not replace version control.",
+    "source": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+  },
+  {
+    "id": "GHF-016",
+    "domain": "security",
+    "question": "A contributor needs to organize issues and PRs without pushing code. Which common repository role fits?",
+    "options": {
+      "A": "Admin",
+      "B": "Write",
+      "C": "Triage",
+      "D": "Organization owner"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Admin is broader than the stated task.",
+      "B": "Write includes code contribution capabilities beyond this need.",
+      "C": "Triage supports issue and PR management without code write access.",
+      "D": "Organization ownership is much broader."
+    },
+    "key_idea": "Match access to the task.",
+    "source": "https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization"
+  },
+  {
+    "id": "GHF-017",
+    "domain": "security",
+    "question": "What makes an organization team different from a personal repository collaborator?",
+    "options": {
+      "A": "Teams can only contain outside collaborators.",
+      "B": "Teams group organization members and can receive repository access together.",
+      "C": "Teams automatically make every repository public.",
+      "D": "A Project board creates organization membership."
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Outside collaborators cannot belong to organization teams.",
+      "B": "Teams provide group-based organization access.",
+      "C": "A team does not automatically change repository visibility.",
+      "D": "Project tracking does not create organization membership."
+    },
+    "key_idea": "Team membership belongs to an organization.",
+    "source": "https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams"
+  },
+  {
+    "id": "GHF-018",
+    "domain": "security",
+    "question": "Who can read a secret gist if its URL is shared with them?",
+    "options": {
+      "A": "Only the author under all circumstances",
+      "B": "Only enterprise owners",
+      "C": "Only users with write access to a separate repository",
+      "D": "Anyone who obtains the URL"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "Secret gists are not private.",
+      "B": "Enterprise ownership is not required.",
+      "C": "A separate repository role is not the access condition.",
+      "D": "The URL can expose an unlisted gist to others."
+    },
+    "key_idea": "Unlisted does not mean access-controlled.",
+    "source": "https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists"
+  },
+  {
+    "id": "GHF-019",
+    "domain": "community",
+    "question": "You want to contribute to a project where you cannot push branches. Which route fits?",
+    "options": {
+      "A": "Fork, make a branch change, and propose a PR",
+      "B": "Ask everyone for their password",
+      "C": "Change the upstream visibility",
+      "D": "Star the project to receive write access"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "A fork supports proposing a contribution without upstream write access.",
+      "B": "Sharing passwords is not a contribution workflow.",
+      "C": "Visibility is not yours to change and does not grant write access.",
+      "D": "Stars do not grant permissions."
+    },
+    "key_idea": "A fork lets you prepare a contribution under your own account.",
+    "source": "https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source"
+  },
+  {
+    "id": "GHF-020",
+    "domain": "community",
+    "question": "Where can you discover reusable Actions and GitHub apps?",
+    "options": {
+      "A": "Only in a local stash",
+      "B": "Only in CODEOWNERS",
+      "C": "GitHub Marketplace",
+      "D": "Only in a private gist"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "A stash holds local changes.",
+      "B": "CODEOWNERS lists ownership.",
+      "C": "Marketplace lists Actions and apps.",
+      "D": "A gist is not the product catalog."
+    },
+    "key_idea": "Marketplace helps discover integrations.",
+    "source": "https://docs.github.com/en/actions/get-started/actions-vs-apps"
+  },
+  {
+    "id": "GHF-021",
+    "domain": "community",
+    "question": "Before submitting a first contribution, what should you inspect?",
+    "options": {
+      "A": "Only the star count",
+      "B": "The project contribution guidance and relevant issue context",
+      "C": "Another contributor’s credentials",
+      "D": "Only your own profile"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Popularity does not explain contribution expectations.",
+      "B": "Guidance and issue context help you propose useful work.",
+      "C": "Credentials are unnecessary and private.",
+      "D": "Your profile does not explain project requirements."
+    },
+    "key_idea": "Read the project expectations before proposing a change.",
+    "source": "https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source"
+  }
+]
