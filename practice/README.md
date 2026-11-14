@@ -1,6 +1,6 @@
 # Practice guide
 
-This starter set contains 21 original questions: three in each domain. It is not a full or exam-weighted mock test. Questions do not come from recalled exam content.
+This starter set contains 35 original questions: five in each domain. It is not a full or exam-weighted mock test. Questions do not come from recalled exam content.
 
 Run `python scripts/quiz.py` from the repo root for one question at a time. The program waits for A, B, C, or D, explains every choice, and shows results by domain. Enter Q to quit. Results are printed locally and are not uploaded or saved.
 

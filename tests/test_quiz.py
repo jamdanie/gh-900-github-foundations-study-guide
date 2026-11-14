@@ -11,7 +11,8 @@ QUESTIONS = json.loads((Path(__file__).resolve().parents[1] / "practice/question
 class QuizTests(unittest.TestCase):
     def test_domain_filter_excludes_other_domains(self):
         result = select_questions(QUESTIONS, domain="security")
-        self.assertEqual(len(result), 3)
+        self.assertEqual({q["id"] for q in result}, {q["id"] for q in QUESTIONS if q["domain"] == "security"})
+        self.assertTrue(result)
         self.assertTrue(all(q["domain"] == "security" for q in result))
 
     def test_limit_keeps_source_data_intact(self):

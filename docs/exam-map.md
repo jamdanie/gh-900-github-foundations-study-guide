@@ -31,4 +31,4 @@ Start with Git basics because they support the other exercises. Then follow your
 
 The runnable Python checks, detailed Git recovery commands, and deployment-environment exercise go beyond recognizing feature names. Use them to make the concepts concrete. Do not treat every command flag in this repo as an exam objective.
 
-The 21-question set samples all seven domains equally. It is deliberately not weighted like the exam and is not a comprehensive readiness assessment. Use the official outline to check coverage, including topics you did not miss in this small set.
+The 35-question set samples all seven domains equally. It is deliberately not weighted like the exam and is not a comprehensive readiness assessment. Use the official outline to check coverage, including topics you did not miss in this small set.

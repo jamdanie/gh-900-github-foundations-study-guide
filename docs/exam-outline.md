@@ -59,3 +59,7 @@ Practice: complete [lab 5](../labs/05-marketplace-and-ai.md). Find a project wit
 OAuth, detailed Git recovery, Python test implementation, and deployment-environment setup support understanding; they are not separate weighted domains. The account lab includes profile settings because they were part of James's preparation.
 
 For each section, explain a concept without notes, complete a small task, and answer a fresh scenario. Revisit an earlier topic after studying another one. Use the [practice set](../practice/README.md) as a starting point and the official assessment for broader feedback. The starter set is not a comprehensive mock exam, and no score here guarantees readiness.
+
+## More practice for common gaps
+
+Use [common decisions](common-decisions.md) to compare similar features, [lab 7](../labs/07-markdown-and-triage.md) for Markdown and triage, and [lab 8](../labs/08-timeline-and-file-maintenance.md) for planning and file maintenance. Questions GHF-022 through GHF-035 cover the added material.

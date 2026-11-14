@@ -67,3 +67,7 @@ Open-source contributions can include documentation, bug reports, tests, and cod
 Try finding one documentation issue you can understand, reading the contribution guidance, and describing a proposed fix before editing. A useful contribution solves an identified problem and gives the maintainer enough information to review it.
 
 Source: [Contributing to open source](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source). Review community coverage in the [official exam outline](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900).
+
+## More practice for common gaps
+
+Use [common decisions](common-decisions.md) to compare similar features, [lab 7](../labs/07-markdown-and-triage.md) for Markdown and triage, and [lab 8](../labs/08-timeline-and-file-maintenance.md) for planning and file maintenance. Questions GHF-022 through GHF-035 cover the added material.

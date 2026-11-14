@@ -18,6 +18,9 @@ This repo shares that approach and gives other people exercises to try. The labs
 | --- | --- |
 | My preparation and how to use this repo | [My study approach](docs/my-study-approach.md) |
 | What the exam covers | [Full topic outline](docs/exam-outline.md) and [domain weights](docs/exam-map.md) |
+| Choosing between similar features | [Common decisions](docs/common-decisions.md) |
+| Markdown, notifications, and search | [Triage lab](labs/07-markdown-and-triage.md) |
+| Timelines and file maintenance | [Planning lab](labs/08-timeline-and-file-maintenance.md) |
 | Git commands in plain language | [Command dictionary](docs/command-dictionary.md) |
 | Git in Visual Studio or VS Code | [Editor walkthrough](labs/01-git-and-editors.md) |
 | AI prompts and `/` commands | [Copilot dictionary](docs/copilot-prompts.md) |
@@ -55,7 +58,7 @@ python -m unittest discover -s tests -v
 python scripts/check_content.py
 ```
 
-There are 21 original practice questions, a Markdown answer guide, and an Anki-ready TSV. These are learning checks, not actual exam questions or a full mock exam. Scores here do not predict an exam result.
+There are 35 original practice questions, a Markdown answer guide, and an Anki-ready TSV. These are learning checks, not actual exam questions or a full mock exam. Scores here do not predict an exam result.
 
 ## What is included
 

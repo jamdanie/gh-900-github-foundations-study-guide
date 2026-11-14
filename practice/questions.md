@@ -7,8 +7,11 @@ Choose an answer and explain your reasoning before expanding the explanation. Th
 You committed a note locally, but your branch on GitHub has not changed. What normally sends the commit to GitHub?
 
 A. git fetch
+
 B. git push
+
 C. git status
+
 D. git add
 
 <details>
@@ -32,8 +35,11 @@ Key idea: Commit is local; push shares commits.
 You want to download remote history before deciding how to integrate it. Which command fits?
 
 A. git pull
+
 B. git commit
+
 C. git fetch
+
 D. git init
 
 <details>
@@ -57,8 +63,11 @@ Key idea: Fetch lets you inspect before integration.
 Which statement correctly distinguishes Git from GitHub?
 
 A. Git tracks versions; GitHub hosts repositories and collaboration tools.
+
 B. Git requires GitHub for every commit.
+
 C. GitHub is the name of the Git staging area.
+
 D. Git and GitHub are interchangeable names.
 
 <details>
@@ -82,8 +91,11 @@ Key idea: Local version control can exist without a hosting account.
 A new reader needs setup instructions for this project. Which file is the best starting point?
 
 A. CODEOWNERS
+
 B. LICENSE
+
 C. SECURITY.md
+
 D. README.md
 
 <details>
@@ -107,8 +119,11 @@ Key idea: README is the project entry point.
 Which file identifies people or teams responsible for particular repository paths?
 
 A. CODEOWNERS
+
 B. README.md
+
 C. A local stash
+
 D. A Project view
 
 <details>
@@ -132,8 +147,11 @@ Key idea: Ownership mapping is separate from review enforcement.
 A repository is public and has no license file. Which conclusion is appropriate?
 
 A. All uses are automatically permitted.
+
 B. Its reuse permissions need to be checked; public visibility is not an open-source license.
+
 C. Starring it gives you a commercial license.
+
 D. Forking removes all copyright restrictions.
 
 <details>
@@ -157,8 +175,11 @@ Key idea: Visibility is not a license.
 You want maintainers to review a branch change before integrating it. What should you open?
 
 A. A secret gist
+
 B. A milestone
+
 C. A pull request
+
 D. A star
 
 <details>
@@ -182,8 +203,11 @@ Key idea: A PR is a proposal to integrate a change.
 A PR description says Closes #12. Under the normal keyword behavior, when does the referenced issue close?
 
 A. When you stage a file
+
 B. When the PR is merged into the default branch
+
 C. When someone stars the repository
+
 D. When a branch is cloned
 
 <details>
@@ -207,8 +231,11 @@ Key idea: Link the issue and merge to the correct branch.
 You need a simple static documentation website from repository content. Which feature fits?
 
 A. Git stash
+
 B. A team role
+
 C. GitHub Mobile notifications
+
 D. GitHub Pages
 
 <details>
@@ -232,8 +259,11 @@ Key idea: Pages publishes a static site.
 You need a hosted development environment with a terminal to execute tests. Which option fits?
 
 A. A Project board
+
 B. A secret gist
+
 C. GitHub Codespaces
+
 D. A repository star
 
 <details>
@@ -257,8 +287,11 @@ Key idea: Codespaces can run tools, not just edit text.
 In an Actions workflow, what is a runner?
 
 A. The machine that executes a job
+
 B. The title of a pull request
+
 C. A repository license
+
 D. The person who starred a repository
 
 <details>
@@ -282,8 +315,11 @@ Key idea: The runner executes the job.
 Copilot suggests a fix and generated tests. What is the best next step?
 
 A. Merge because AI generated it
+
 B. Delete existing tests
+
 C. Assume the tests ran in chat
+
 D. Review the changes and run appropriate tests
 
 <details>
@@ -307,8 +343,11 @@ Key idea: AI suggestions still need verification.
 You want to see the same Project items in columns and in rows. What should you use?
 
 A. Separate repositories for each layout
+
 B. Board and table views of the same Project
+
 C. Two forks
+
 D. Two LICENSE files
 
 <details>
@@ -332,8 +371,11 @@ Key idea: A view changes presentation, not the underlying work.
 Your issue closed but its board item stayed In Progress. What should you check first?
 
 A. Whether Git is installed locally
+
 B. The commit author font
+
 C. The Project workflow that updates Status on issue closure
+
 D. The number of stars
 
 <details>
@@ -357,8 +399,11 @@ Key idea: Issue state and Project Status are separate unless connected by automa
 What is the main purpose of a GitHub Project?
 
 A. Plan and track work using issues, PRs, and fields
+
 B. Replace the Git commit history
+
 C. Store passwords for every member
+
 D. Provide a Python interpreter
 
 <details>
@@ -382,8 +427,11 @@ Key idea: Planning tools organize work; they do not replace version control.
 A contributor needs to organize issues and PRs without pushing code. Which common repository role fits?
 
 A. Admin
+
 B. Write
+
 C. Triage
+
 D. Organization owner
 
 <details>
@@ -407,8 +455,11 @@ Key idea: Match access to the task.
 What makes an organization team different from a personal repository collaborator?
 
 A. Teams can only contain outside collaborators.
+
 B. Teams group organization members and can receive repository access together.
+
 C. Teams automatically make every repository public.
+
 D. A Project board creates organization membership.
 
 <details>
@@ -432,8 +483,11 @@ Key idea: Team membership belongs to an organization.
 Who can read a secret gist if its URL is shared with them?
 
 A. Only the author under all circumstances
+
 B. Only enterprise owners
+
 C. Only users with write access to a separate repository
+
 D. Anyone who obtains the URL
 
 <details>
@@ -457,8 +511,11 @@ Key idea: Unlisted does not mean access-controlled.
 You want to contribute to a project where you cannot push branches. Which route fits?
 
 A. Fork, make a branch change, and propose a PR
+
 B. Ask everyone for their password
+
 C. Change the upstream visibility
+
 D. Star the project to receive write access
 
 <details>
@@ -482,8 +539,11 @@ Key idea: A fork lets you prepare a contribution under your own account.
 Where can you discover reusable Actions and GitHub apps?
 
 A. Only in a local stash
+
 B. Only in CODEOWNERS
+
 C. GitHub Marketplace
+
 D. Only in a private gist
 
 <details>
@@ -507,8 +567,11 @@ Key idea: Marketplace helps discover integrations.
 Before submitting a first contribution, what should you inspect?
 
 A. Only the star count
+
 B. The project contribution guidance and relevant issue context
+
 C. Another contributor’s credentials
+
 D. Only your own profile
 
 <details>
@@ -524,5 +587,397 @@ D. Only your own profile
 Key idea: Read the project expectations before proposing a change.
 
 [Official reference](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source)
+
+</details>
+
+## GHF-022 · basics
+
+Which Markdown syntax displays git status as inline code?
+
+A. # git status
+
+B. `git status`
+
+C. - [ ] git status
+
+D. > git status
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: B. `git status`**
+
+- **A:** A hash starts a heading.
+- **B:** Backticks mark inline code.
+- **C:** This creates a task-list item.
+- **D:** A greater-than sign starts a quote.
+
+Key idea: Choose formatting that matches the content.
+
+[Official reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+</details>
+
+## GHF-023 · basics
+
+You wrote - [ ] Try git fetch in an issue. What does it create?
+
+A. A new Git branch
+
+B. An executed command
+
+C. A required merge check
+
+D. An unchecked task item
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: D. An unchecked task item**
+
+- **A:** Markdown does not create branches.
+- **B:** The text does not execute Git.
+- **C:** A checklist does not configure branch rules.
+- **D:** This syntax creates an unchecked task item.
+
+Key idea: A checklist records tasks; it does not execute them.
+
+[Official reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+</details>
+
+## GHF-024 · repositories
+
+You want a new independent project with starter files but without their full commit history. Which starting point fits?
+
+A. A template repository
+
+B. A local stash
+
+C. An issue subscription
+
+D. A code-owner rule
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: A. A template repository**
+
+- **A:** A template supplies starter content with new history.
+- **B:** A stash holds unfinished changes.
+- **C:** A subscription sends activity updates.
+- **D:** Code owners identify responsibility, not project starters.
+
+Key idea: Templates start independent projects.
+
+[Official reference](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+</details>
+
+## GHF-025 · repositories
+
+How does a template-generated repository differ from a fork?
+
+A. Only forks can contain Markdown.
+
+B. Templates always grant upstream write access.
+
+C. A template-generated repository starts with a single commit; a fork retains upstream history.
+
+D. A fork cannot receive pull requests.
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: C. A template-generated repository starts with a single commit; a fork retains upstream history.**
+
+- **A:** Both can contain Markdown.
+- **B:** Templates do not grant upstream access.
+- **C:** Their history and intended relationship differ.
+- **D:** Forks can participate in PR workflows.
+
+Key idea: Similar files can have different repository histories.
+
+[Official reference](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+</details>
+
+## GHF-026 · collaboration
+
+Which issue-search query finds open issues assigned to your signed-in account?
+
+A. is:pr is:merged
+
+B. is:issue is:open assignee:@me
+
+C. git status
+
+D. is:issue is:closed
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: B. is:issue is:open assignee:@me**
+
+- **A:** This finds merged PRs.
+- **B:** It filters by issue type, open state, and your assignment.
+- **C:** This is a terminal command.
+- **D:** It selects closed issues without your assignment.
+
+Key idea: Read each qualifier as a separate condition.
+
+[Official reference](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests)
+
+</details>
+
+## GHF-027 · collaboration
+
+You need updates from one issue conversation without all repository activity. What fits?
+
+A. Create a branch
+
+B. Change its license
+
+C. Subscribe to that issue
+
+D. Clone the repository
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: C. Subscribe to that issue**
+
+- **A:** Branches organize changes.
+- **B:** Licensing governs reuse.
+- **C:** A thread subscription targets that conversation.
+- **D:** Cloning copies repository content, not notification preferences.
+
+Key idea: Subscribe at the scope you need.
+
+[Official reference](https://docs.github.com/en/subscriptions-and-notifications/concepts/about-notifications)
+
+</details>
+
+## GHF-028 · modern
+
+An AI response contains test code but no execution result. What has been demonstrated?
+
+A. The test suite passed.
+
+B. The deployment succeeded.
+
+C. The branch satisfies all rules.
+
+D. The assistant proposed test code.
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: D. The assistant proposed test code.**
+
+- **A:** Code text is not a passing run.
+- **B:** No deployment result was supplied.
+- **C:** No rule evaluation was supplied.
+- **D:** Only a proposal is shown.
+
+Key idea: Look for execution evidence.
+
+[Official reference](https://docs.github.com/en/copilot/get-started/about-github-copilot)
+
+</details>
+
+## GHF-029 · modern
+
+Which description best distinguishes agentic assistance from a single code suggestion?
+
+A. An agent can work through multiple steps and tools toward a goal.
+
+B. An agent automatically receives Admin access.
+
+C. An agent removes the need for review.
+
+D. An agent is the same as a repository license.
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: A. An agent can work through multiple steps and tools toward a goal.**
+
+- **A:** Agentic work can include edits and tool use.
+- **B:** Access still depends on permissions.
+- **C:** Humans still need to review changes.
+- **D:** Licensing is unrelated to an AI work mode.
+
+Key idea: More autonomous work still needs review and appropriate access.
+
+[Official reference](https://docs.github.com/en/copilot/get-started/about-github-copilot)
+
+</details>
+
+## GHF-030 · projects
+
+A team plans work in repeating two-week blocks. Which Project field fits?
+
+A. A star count
+
+B. A repository license
+
+C. An iteration field
+
+D. An SSH key
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: C. An iteration field**
+
+- **A:** Stars do not schedule work.
+- **B:** A license defines reuse terms.
+- **C:** Iterations group work into repeating time blocks.
+- **D:** An SSH key authenticates a connection.
+
+Key idea: Iteration fields organize recurring work periods.
+
+[Official reference](https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields)
+
+</details>
+
+## GHF-031 · projects
+
+You want to track completion of related issues and PRs toward a repository target. What fits?
+
+A. A milestone
+
+B. A local stash
+
+C. A passkey
+
+D. A code fence
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: A. A milestone**
+
+- **A:** Milestones group and track related repository work.
+- **B:** A stash stores local edits.
+- **C:** A passkey supports sign-in.
+- **D:** A code fence formats text.
+
+Key idea: A milestone groups work toward a target.
+
+[Official reference](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
+
+</details>
+
+## GHF-032 · security
+
+An enterprise needs its identity provider to provision and manage GitHub accounts. Which concept fits?
+
+A. A public gist
+
+B. A Project iteration
+
+C. A Markdown checklist
+
+D. Enterprise Managed Users
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: D. Enterprise Managed Users**
+
+- **A:** A gist shares snippets.
+- **B:** Iterations schedule work.
+- **C:** A checklist records tasks.
+- **D:** Managed users integrate account lifecycle with an identity provider.
+
+Key idea: Identity administration is broader than a repository role.
+
+[Official reference](https://docs.github.com/en/enterprise-cloud@latest/admin/concepts/identity-and-access-management/enterprise-managed-users)
+
+</details>
+
+## GHF-033 · security
+
+An Actions test passes, but a required PR review is missing. What is the right conclusion?
+
+A. The check automatically removes the review requirement.
+
+B. A passed test does not satisfy the separate review requirement.
+
+C. The PR must be deleted.
+
+D. The repository must become public.
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: B. A passed test does not satisfy the separate review requirement.**
+
+- **A:** Separate rules remain applicable.
+- **B:** Review and status checks are different conditions.
+- **C:** Deletion is not implied.
+- **D:** Visibility is unrelated to satisfying this review.
+
+Key idea: Check every applicable merge requirement.
+
+[Official reference](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
+
+</details>
+
+## GHF-034 · community
+
+Which GitHub feature provides financial support to open-source maintainers?
+
+A. GitHub Sponsors
+
+B. A local commit
+
+C. An iteration field
+
+D. A CODEOWNERS entry
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: A. GitHub Sponsors**
+
+- **A:** Sponsors supports maintainers financially.
+- **B:** A commit records work.
+- **C:** An iteration schedules work.
+- **D:** Code ownership does not transfer funds.
+
+Key idea: Sponsorship is different from contributing code.
+
+[Official reference](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors)
+
+</details>
+
+## GHF-035 · community
+
+You want to adapt a project and propose a change back while preserving its upstream relationship. Which choice fits better than a template?
+
+A. A new unrelated repository
+
+B. An issue filter
+
+C. A fork
+
+D. A notification setting
+
+<details>
+<summary>Answer and explanation</summary>
+
+**Correct: C. A fork**
+
+- **A:** An unrelated repository does not establish the same fork relationship.
+- **B:** A filter only finds work.
+- **C:** A fork supports the upstream contribution workflow.
+- **D:** Notification settings do not create a contribution copy.
+
+Key idea: Use the intended relationship to choose your starting point.
+
+[Official reference](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 </details>

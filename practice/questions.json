@@ -418,5 +418,285 @@
     },
     "key_idea": "Read the project expectations before proposing a change.",
     "source": "https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source"
+  },
+  {
+    "id": "GHF-022",
+    "domain": "basics",
+    "question": "Which Markdown syntax displays git status as inline code?",
+    "options": {
+      "A": "# git status",
+      "B": "`git status`",
+      "C": "- [ ] git status",
+      "D": "> git status"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "A hash starts a heading.",
+      "B": "Backticks mark inline code.",
+      "C": "This creates a task-list item.",
+      "D": "A greater-than sign starts a quote."
+    },
+    "key_idea": "Choose formatting that matches the content.",
+    "source": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
+  },
+  {
+    "id": "GHF-023",
+    "domain": "basics",
+    "question": "You wrote - [ ] Try git fetch in an issue. What does it create?",
+    "options": {
+      "A": "A new Git branch",
+      "B": "An executed command",
+      "C": "A required merge check",
+      "D": "An unchecked task item"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "Markdown does not create branches.",
+      "B": "The text does not execute Git.",
+      "C": "A checklist does not configure branch rules.",
+      "D": "This syntax creates an unchecked task item."
+    },
+    "key_idea": "A checklist records tasks; it does not execute them.",
+    "source": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
+  },
+  {
+    "id": "GHF-024",
+    "domain": "repositories",
+    "question": "You want a new independent project with starter files but without their full commit history. Which starting point fits?",
+    "options": {
+      "A": "A template repository",
+      "B": "A local stash",
+      "C": "An issue subscription",
+      "D": "A code-owner rule"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "A template supplies starter content with new history.",
+      "B": "A stash holds unfinished changes.",
+      "C": "A subscription sends activity updates.",
+      "D": "Code owners identify responsibility, not project starters."
+    },
+    "key_idea": "Templates start independent projects.",
+    "source": "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template"
+  },
+  {
+    "id": "GHF-025",
+    "domain": "repositories",
+    "question": "How does a template-generated repository differ from a fork?",
+    "options": {
+      "A": "Only forks can contain Markdown.",
+      "B": "Templates always grant upstream write access.",
+      "C": "A template-generated repository starts with a single commit; a fork retains upstream history.",
+      "D": "A fork cannot receive pull requests."
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Both can contain Markdown.",
+      "B": "Templates do not grant upstream access.",
+      "C": "Their history and intended relationship differ.",
+      "D": "Forks can participate in PR workflows."
+    },
+    "key_idea": "Similar files can have different repository histories.",
+    "source": "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template"
+  },
+  {
+    "id": "GHF-026",
+    "domain": "collaboration",
+    "question": "Which issue-search query finds open issues assigned to your signed-in account?",
+    "options": {
+      "A": "is:pr is:merged",
+      "B": "is:issue is:open assignee:@me",
+      "C": "git status",
+      "D": "is:issue is:closed"
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "This finds merged PRs.",
+      "B": "It filters by issue type, open state, and your assignment.",
+      "C": "This is a terminal command.",
+      "D": "It selects closed issues without your assignment."
+    },
+    "key_idea": "Read each qualifier as a separate condition.",
+    "source": "https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests"
+  },
+  {
+    "id": "GHF-027",
+    "domain": "collaboration",
+    "question": "You need updates from one issue conversation without all repository activity. What fits?",
+    "options": {
+      "A": "Create a branch",
+      "B": "Change its license",
+      "C": "Subscribe to that issue",
+      "D": "Clone the repository"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Branches organize changes.",
+      "B": "Licensing governs reuse.",
+      "C": "A thread subscription targets that conversation.",
+      "D": "Cloning copies repository content, not notification preferences."
+    },
+    "key_idea": "Subscribe at the scope you need.",
+    "source": "https://docs.github.com/en/subscriptions-and-notifications/concepts/about-notifications"
+  },
+  {
+    "id": "GHF-028",
+    "domain": "modern",
+    "question": "An AI response contains test code but no execution result. What has been demonstrated?",
+    "options": {
+      "A": "The test suite passed.",
+      "B": "The deployment succeeded.",
+      "C": "The branch satisfies all rules.",
+      "D": "The assistant proposed test code."
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "Code text is not a passing run.",
+      "B": "No deployment result was supplied.",
+      "C": "No rule evaluation was supplied.",
+      "D": "Only a proposal is shown."
+    },
+    "key_idea": "Look for execution evidence.",
+    "source": "https://docs.github.com/en/copilot/get-started/about-github-copilot"
+  },
+  {
+    "id": "GHF-029",
+    "domain": "modern",
+    "question": "Which description best distinguishes agentic assistance from a single code suggestion?",
+    "options": {
+      "A": "An agent can work through multiple steps and tools toward a goal.",
+      "B": "An agent automatically receives Admin access.",
+      "C": "An agent removes the need for review.",
+      "D": "An agent is the same as a repository license."
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "Agentic work can include edits and tool use.",
+      "B": "Access still depends on permissions.",
+      "C": "Humans still need to review changes.",
+      "D": "Licensing is unrelated to an AI work mode."
+    },
+    "key_idea": "More autonomous work still needs review and appropriate access.",
+    "source": "https://docs.github.com/en/copilot/get-started/about-github-copilot"
+  },
+  {
+    "id": "GHF-030",
+    "domain": "projects",
+    "question": "A team plans work in repeating two-week blocks. Which Project field fits?",
+    "options": {
+      "A": "A star count",
+      "B": "A repository license",
+      "C": "An iteration field",
+      "D": "An SSH key"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "Stars do not schedule work.",
+      "B": "A license defines reuse terms.",
+      "C": "Iterations group work into repeating time blocks.",
+      "D": "An SSH key authenticates a connection."
+    },
+    "key_idea": "Iteration fields organize recurring work periods.",
+    "source": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields"
+  },
+  {
+    "id": "GHF-031",
+    "domain": "projects",
+    "question": "You want to track completion of related issues and PRs toward a repository target. What fits?",
+    "options": {
+      "A": "A milestone",
+      "B": "A local stash",
+      "C": "A passkey",
+      "D": "A code fence"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "Milestones group and track related repository work.",
+      "B": "A stash stores local edits.",
+      "C": "A passkey supports sign-in.",
+      "D": "A code fence formats text."
+    },
+    "key_idea": "A milestone groups work toward a target.",
+    "source": "https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones"
+  },
+  {
+    "id": "GHF-032",
+    "domain": "security",
+    "question": "An enterprise needs its identity provider to provision and manage GitHub accounts. Which concept fits?",
+    "options": {
+      "A": "A public gist",
+      "B": "A Project iteration",
+      "C": "A Markdown checklist",
+      "D": "Enterprise Managed Users"
+    },
+    "answer": "D",
+    "explanations": {
+      "A": "A gist shares snippets.",
+      "B": "Iterations schedule work.",
+      "C": "A checklist records tasks.",
+      "D": "Managed users integrate account lifecycle with an identity provider."
+    },
+    "key_idea": "Identity administration is broader than a repository role.",
+    "source": "https://docs.github.com/en/enterprise-cloud@latest/admin/concepts/identity-and-access-management/enterprise-managed-users"
+  },
+  {
+    "id": "GHF-033",
+    "domain": "security",
+    "question": "An Actions test passes, but a required PR review is missing. What is the right conclusion?",
+    "options": {
+      "A": "The check automatically removes the review requirement.",
+      "B": "A passed test does not satisfy the separate review requirement.",
+      "C": "The PR must be deleted.",
+      "D": "The repository must become public."
+    },
+    "answer": "B",
+    "explanations": {
+      "A": "Separate rules remain applicable.",
+      "B": "Review and status checks are different conditions.",
+      "C": "Deletion is not implied.",
+      "D": "Visibility is unrelated to satisfying this review."
+    },
+    "key_idea": "Check every applicable merge requirement.",
+    "source": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches"
+  },
+  {
+    "id": "GHF-034",
+    "domain": "community",
+    "question": "Which GitHub feature provides financial support to open-source maintainers?",
+    "options": {
+      "A": "GitHub Sponsors",
+      "B": "A local commit",
+      "C": "An iteration field",
+      "D": "A CODEOWNERS entry"
+    },
+    "answer": "A",
+    "explanations": {
+      "A": "Sponsors supports maintainers financially.",
+      "B": "A commit records work.",
+      "C": "An iteration schedules work.",
+      "D": "Code ownership does not transfer funds."
+    },
+    "key_idea": "Sponsorship is different from contributing code.",
+    "source": "https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors"
+  },
+  {
+    "id": "GHF-035",
+    "domain": "community",
+    "question": "You want to adapt a project and propose a change back while preserving its upstream relationship. Which choice fits better than a template?",
+    "options": {
+      "A": "A new unrelated repository",
+      "B": "An issue filter",
+      "C": "A fork",
+      "D": "A notification setting"
+    },
+    "answer": "C",
+    "explanations": {
+      "A": "An unrelated repository does not establish the same fork relationship.",
+      "B": "A filter only finds work.",
+      "C": "A fork supports the upstream contribution workflow.",
+      "D": "Notification settings do not create a contribution copy."
+    },
+    "key_idea": "Use the intended relationship to choose your starting point.",
+    "source": "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template"
   }
 ]

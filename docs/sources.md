@@ -47,3 +47,7 @@ Recheck the exam outline and client-specific Copilot documentation before relyin
 ## Additional learning resources
 
 See the [free-resource guide](free-resources.md) for GitHub Skills, freeCodeCamp, Pro Git, and guidance on using older demonstrations with the current outline. See the [account security lab](../labs/06-profile-and-security.md) for the authentication and authorization sources.
+
+## November 14 coverage update
+
+The [common decisions guide](common-decisions.md) links current official references for the new examples and questions. It expands topics that previously had only brief descriptions; it does not claim the practice bank exhausts the exam objectives.
