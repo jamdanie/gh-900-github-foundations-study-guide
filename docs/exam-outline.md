@@ -63,3 +63,7 @@ For each section, explain a concept without notes, complete a small task, and an
 ## More practice for common gaps
 
 Use [common decisions](common-decisions.md) to compare similar features, [lab 7](../labs/07-markdown-and-triage.md) for Markdown and triage, and [lab 8](../labs/08-timeline-and-file-maintenance.md) for planning and file maintenance. Questions GHF-022 through GHF-035 cover the added material.
+
+## Applying the topics
+
+Practice Git integration in [lab 9](../labs/09-merge-conflicts.md), inspect a proposed change in [lab 10](../labs/10-review-a-pull-request.md), and compare evidence in the [insights guide](insights-and-security-tools.md). The [scenario workbook](../practice/scenario-workbook.md) asks you to explain decisions and then change them when the situation changes.

@@ -29,6 +29,9 @@ This repo shares that approach and gives other people exercises to try. The labs
 | Teams and permissions | [Team management lab](labs/04-team-management.md) |
 | The GitHub “store” | [Marketplace lab](labs/05-marketplace-and-ai.md) |
 | Short explanations of the other exam topics | [Foundations reference](docs/foundations-reference.md) |
+| Explain concepts in new situations | [10 scenario exercises](practice/scenario-workbook.md) |
+| Merge conflicts and PR review | [Conflict lab](labs/09-merge-conflicts.md) and [review lab](labs/10-review-a-pull-request.md) |
+| Repository insights and security tools | [Evidence guide](docs/insights-and-security-tools.md) |
 | Questions with explanations | [Practice guide](practice/README.md) |
 | Free resources beyond Microsoft Learn | [Resource guide](docs/free-resources.md) |
 | Profile, 2FA, OAuth, and security | [Account security lab](labs/06-profile-and-security.md) |
