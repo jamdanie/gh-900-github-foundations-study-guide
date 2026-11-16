@@ -11,3 +11,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [07. A fast-forward stop](07-a-fast-forward-stop.md) — Git
 - [08. Pause tracked work](08-pause-tracked-work.md) — Git
 - [09. Undo a published change](09-undo-a-published-change.md) — Git
+- [10. Resolve meaning, not markers](10-resolve-meaning-not-markers.md) — Git
