@@ -16,6 +16,8 @@ This repo shares that approach and gives other people exercises to try. The labs
 
 Start with the [beginner guide](docs/beginner-start-here.md). It follows one small change, explains where your work is saved, and introduces Actions using this repository’s own workflow. Then try the [eight beginner checks](practice/beginner-checks.md).
 
+For short practice sessions, use the [30 topic cards](practice/cards/README.md). Each has an expandable explanation and a follow-up exercise covering Git, collaboration, Projects, Actions, or security.
+
 ## Start where you need help
 
 | What you need | Go here |
