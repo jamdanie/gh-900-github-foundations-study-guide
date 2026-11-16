@@ -10,3 +10,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [06. Download before integrating](06-download-before-integrating.md) — Git
 - [07. A fast-forward stop](07-a-fast-forward-stop.md) — Git
 - [08. Pause tracked work](08-pause-tracked-work.md) — Git
+- [09. Undo a published change](09-undo-a-published-change.md) — Git
