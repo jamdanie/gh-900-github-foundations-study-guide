@@ -16,3 +16,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [12. Check the PR destination](12-check-the-pr-destination.md) — Collaboration
 - [13. Revise the same PR](13-revise-the-same-pr.md) — Collaboration
 - [14. A draft with passing checks](14-a-draft-with-passing-checks.md) — Collaboration
+- [15. Fork or starter template](15-fork-or-starter-template.md) — Collaboration
