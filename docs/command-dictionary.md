@@ -67,3 +67,5 @@ GitHub CLI uses `gh`. Git uses `git`. Install and sign in to GitHub CLI only if 
 | `gh run list` | List workflow runs | Find automation results |
 
 These commands require GitHub CLI and appropriate access. Check `gh help` and the [official CLI manual](https://cli.github.com/manual/) for current options.
+
+New to the sequence? Read [where your Git changes go](git-step-by-step.md) for saving, staging, committing, and pushing in order.

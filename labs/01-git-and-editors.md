@@ -57,3 +57,5 @@ If the push is denied, inspect `git remote -v` and confirm you cloned your fork.
 Evidence to keep: your commit, PR, and a short explanation of local versus remote state. These are your own lab results, not required submissions to this repository.
 
 Sources: [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow), [VS Code source control](https://code.visualstudio.com/docs/sourcecontrol/overview), [Git in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio).
+
+If the steps feel unfamiliar, read [where your Git changes go](../docs/git-step-by-step.md) alongside this lab. It explains what each command changes and how to inspect the result.

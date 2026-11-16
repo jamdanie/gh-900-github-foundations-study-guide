@@ -21,3 +21,7 @@ After a wrong answer, explain which word in the scenario changes the decision. R
 ## Short-answer practice
 
 The [scenario workbook](scenario-workbook.md) adds 10 original exercises with explanations and changed conditions. It is separate from the 35-question CLI quiz and TSV deck. Use it to practice explaining your choice instead of recognizing an answer letter.
+
+## Before the quiz
+
+Try the [eight beginner checks](beginner-checks.md) if the terms still feel unfamiliar. Each asks for a next step and explains the reason. These are separate from the CLI quiz and Anki deck.

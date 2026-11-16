@@ -12,6 +12,10 @@ Every once in a while, I used a follow-along video and had AI guide me through t
 
 This repo shares that approach and gives other people exercises to try. The labs are reader practice material, not a claim that I completed every exercise here before my exam. Read [my full study approach](docs/my-study-approach.md), then use the [exam outline](docs/exam-outline.md) to choose a section.
 
+## New to GitHub?
+
+Start with the [beginner guide](docs/beginner-start-here.md). It follows one small change, explains where your work is saved, and introduces Actions using this repository’s own workflow. Then try the [eight beginner checks](practice/beginner-checks.md).
+
 ## Start where you need help
 
 | What you need | Go here |
