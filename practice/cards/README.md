@@ -17,3 +17,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [13. Revise the same PR](13-revise-the-same-pr.md) — Collaboration
 - [14. A draft with passing checks](14-a-draft-with-passing-checks.md) — Collaboration
 - [15. Fork or starter template](15-fork-or-starter-template.md) — Collaboration
+- [16. A view is not a duplicate task](16-a-view-is-not-a-duplicate-task.md) — Projects
