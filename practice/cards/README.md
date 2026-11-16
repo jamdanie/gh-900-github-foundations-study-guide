@@ -13,3 +13,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [09. Undo a published change](09-undo-a-published-change.md) — Git
 - [10. Resolve meaning, not markers](10-resolve-meaning-not-markers.md) — Git
 - [11. Report before proposing](11-report-before-proposing.md) — Collaboration
+- [12. Check the PR destination](12-check-the-pr-destination.md) — Collaboration
