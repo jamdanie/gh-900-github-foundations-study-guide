@@ -31,3 +31,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [27. An exposed token](27-an-exposed-token.md) — Security and evidence
 - [28. Dependencies versus dependents](28-dependencies-versus-dependents.md) — Security and evidence
 - [29. Activity versus correctness](29-activity-versus-correctness.md) — Security and evidence
+- [30. A suggested test versus a result](30-a-suggested-test-versus-a-result.md) — Security and evidence
