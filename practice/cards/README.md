@@ -20,3 +20,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [16. A view is not a duplicate task](16-a-view-is-not-a-duplicate-task.md) — Projects
 - [17. Done versus closed](17-done-versus-closed.md) — Projects
 - [18. Plan a recurring work period](18-plan-a-recurring-work-period.md) — Projects
+- [19. Completion is not mastery](19-completion-is-not-mastery.md) — Projects
