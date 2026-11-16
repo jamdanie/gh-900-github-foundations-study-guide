@@ -23,3 +23,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [19. Completion is not mastery](19-completion-is-not-mastery.md) — Projects
 - [20. Find your assigned work](20-find-your-assigned-work.md) — Projects
 - [21. What starts the run](21-what-starts-the-run.md) — Actions
+- [22. Job or machine](22-job-or-machine.md) — Actions
