@@ -15,3 +15,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [11. Report before proposing](11-report-before-proposing.md) — Collaboration
 - [12. Check the PR destination](12-check-the-pr-destination.md) — Collaboration
 - [13. Revise the same PR](13-revise-the-same-pr.md) — Collaboration
+- [14. A draft with passing checks](14-a-draft-with-passing-checks.md) — Collaboration
