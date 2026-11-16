@@ -30,3 +30,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [26. A vulnerable package](26-a-vulnerable-package.md) — Security and evidence
 - [27. An exposed token](27-an-exposed-token.md) — Security and evidence
 - [28. Dependencies versus dependents](28-dependencies-versus-dependents.md) — Security and evidence
+- [29. Activity versus correctness](29-activity-versus-correctness.md) — Security and evidence
