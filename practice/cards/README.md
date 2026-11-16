@@ -19,3 +19,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [15. Fork or starter template](15-fork-or-starter-template.md) — Collaboration
 - [16. A view is not a duplicate task](16-a-view-is-not-a-duplicate-task.md) — Projects
 - [17. Done versus closed](17-done-versus-closed.md) — Projects
+- [18. Plan a recurring work period](18-plan-a-recurring-work-period.md) — Projects
