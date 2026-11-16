@@ -26,3 +26,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [22. Job or machine](22-job-or-machine.md) — Actions
 - [23. Uses versus run](23-uses-versus-run.md) — Actions
 - [24. Read the failed step](24-read-the-failed-step.md) — Actions
+- [25. A named environment is not a deployed app](25-a-named-environment-is-not-a-deployed-app.md) — Actions
