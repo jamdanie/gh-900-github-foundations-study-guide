@@ -28,3 +28,4 @@ Thirty original explanation exercises for beginners. Pick a topic, answer before
 - [24. Read the failed step](24-read-the-failed-step.md) — Actions
 - [25. A named environment is not a deployed app](25-a-named-environment-is-not-a-deployed-app.md) — Actions
 - [26. A vulnerable package](26-a-vulnerable-package.md) — Security and evidence
+- [27. An exposed token](27-an-exposed-token.md) — Security and evidence
