@@ -1,5 +1,20 @@
 # Practice guide
 
+[Table of contents](../CONTENTS.md) · [Topic finder](../docs/topic-finder.md) · [Review log](review-log.md)
+
+## Choose a practice format
+
+| What you need | Start here |
+| --- | --- |
+| Explain a basic next step | [Eight beginner checks](beginner-checks.md) |
+| Review one small concept | [Thirty topic cards](cards/README.md) |
+| Apply a concept when a requirement changes | [Ten scenarios](scenario-workbook.md) |
+| Answer multiple-choice questions | [Question bank](questions.md) or the CLI below |
+| Repeat concepts in flashcards | Anki import instructions below |
+| Decide what to study next | [Review log](review-log.md) |
+
+## Multiple-choice practice
+
 This starter set contains 35 original questions: five in each domain. It is not a full or exam-weighted mock test. Questions do not come from recalled exam content.
 
 Run `python scripts/quiz.py` from the repo root for one question at a time. The program waits for A, B, C, or D, explains every choice, and shows results by domain. Enter Q to quit. Results are printed locally and are not uploaded or saved.
