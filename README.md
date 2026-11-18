@@ -2,6 +2,20 @@
 
 Free study notes, hands-on labs, Git command references, Anki flashcards, and original practice questions.
 
+## Table of contents
+
+[Open the full table of contents](CONTENTS.md) for chapter sections, labs, references, and practice. Use the [alphabetical topic finder](docs/topic-finder.md) when you know the term you need.
+
+1. [Git and GitHub basics](chapters/01-git-basics.md)
+2. [Working with repositories](chapters/02-repositories.md)
+3. [Collaboration and review](chapters/03-collaboration.md)
+4. [Automation, editors, and AI](chapters/04-modern-development.md)
+5. [Projects and planning](chapters/05-project-management.md)
+6. [Security and administration](chapters/06-security-administration.md)
+7. [Community and contributions](chapters/07-community.md)
+
+Each chapter has key terms, a worked example, common points of confusion, and direct links to hands-on practice.
+
 ## How I passed without dumps
 
 I passed GH-900 using Microsoft Learn, AI-assisted practice, occasional follow-along videos, and Anki flashcards. I did not use exam dumps.
