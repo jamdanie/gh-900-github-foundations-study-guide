@@ -29,6 +29,10 @@ Project status and issue state are distinct. Check configured automation before 
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Use one dataset in two views
+
+Add your chosen practice tasks to a sandbox Project. Display the same items as a board and a table, then explain which question each view answers more easily. Track the [hands-on missions](../practice/visual-missions.md) if you need task ideas. Inspect the linked issue state before assuming that moving its card closed it.
+
 ## Practice and review
 
 Choose an iteration for recurring study periods and a date field for one planned finish date. Explain what information each stores and what a roadmap helps you see.
