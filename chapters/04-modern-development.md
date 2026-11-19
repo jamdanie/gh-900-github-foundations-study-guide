@@ -30,6 +30,10 @@ A slash command in chat is not a Git command in a terminal. Available AI command
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Inspect a real run
+
+Open a workflow run and locate its commit, job, and step output. Predict what the checkout step makes available before reading later logs. Use the [modern development mission](../practice/visual-missions.md) and record only results you observed. [GitHub's interactive courses](../docs/visual-learning-resources.md) provide another route into repository-based practice.
+
 ## Practice and review
 
 Identify the event, job, runner, and steps in this repository's checks workflow. Explain which result would support saying the tests passed.
