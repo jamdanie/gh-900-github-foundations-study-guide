@@ -30,6 +30,10 @@ A file that identifies reviewers and a rule that requires approval are different
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Map the repository before editing
+
+Draw a small file map of your own sandbox. Beside README, CONTRIBUTING, and SECURITY, write the question each file answers. If a file is absent, record that accurately instead of inventing its contents. Use the [repository mission](../practice/visual-missions.md) to check whether another reader could find the right instructions.
+
 ## Practice and review
 
 Choose the file you would read before reporting a vulnerability. Explain why opening a public issue is not automatically the right first step.
