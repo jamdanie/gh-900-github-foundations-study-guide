@@ -40,3 +40,9 @@ The [scenario workbook](scenario-workbook.md) adds 10 original exercises with ex
 ## Before the quiz
 
 Try the [eight beginner checks](beginner-checks.md) if the terms still feel unfamiliar. Each asks for a next step and explains the reason. These are separate from the CLI quiz and Anki deck.
+
+## Learn by seeing and doing
+
+Try the [seven hands-on missions](visual-missions.md) when reading alone is not helping. Use the [visual resource guide](../docs/visual-learning-resources.md) to choose a browser simulation, a downloadable Git game, or an official repository-based course. Keep a small [evidence note](learning-evidence.md) explaining what changed and what you checked.
+
+These missions supplement the existing question bank and flashcards; they do not change the quiz or Anki card counts.
