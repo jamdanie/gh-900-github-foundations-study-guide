@@ -31,6 +31,10 @@ Opening a PR does not merge it. A draft cannot merge until it is ready, and appl
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Turn an observation into a PR
+
+Use [lab 13](../labs/13-observation-to-pull-request.md) to turn a Git exercise or game observation into an issue and a reviewed note. Check the destination repository before opening the PR. The [review diagram](../docs/visual-git-and-github.md) helps separate correct content from satisfied merge requirements.
+
 ## Practice and review
 
 Explain what you would do if a reviewer requested one more example in an open PR. Describe which branch you would edit and which check result you would inspect.
