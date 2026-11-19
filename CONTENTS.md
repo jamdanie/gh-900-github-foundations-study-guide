@@ -51,3 +51,13 @@ The seven chapter groups follow the [official GH-900 study guide](https://learn.
 The different exercise sets are separate. They are original study material, not recalled exam questions or a comprehensive mock exam.
 
 [Back to the main page](README.md)
+
+## Visual learning and hands-on challenges
+
+- [Free interactive resources and optional Steam games](docs/visual-learning-resources.md)
+- [Git history and PR review diagrams](docs/visual-git-and-github.md)
+- [Lab 11: Predict, observe, explain](labs/11-visual-git-challenge.md)
+- [Lab 12: Read a local commit graph](labs/12-read-a-local-history.md)
+- [Lab 13: Turn an observation into a reviewed note](labs/13-observation-to-pull-request.md)
+- [Seven chapter missions](practice/visual-missions.md)
+- [Show what you actually learned](practice/learning-evidence.md)
