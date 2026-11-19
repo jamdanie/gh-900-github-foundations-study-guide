@@ -16,6 +16,10 @@ Free study notes, hands-on labs, Git command references, Anki flashcards, and or
 
 Each chapter has key terms, a worked example, common points of confusion, and direct links to hands-on practice.
 
+## Prefer visual or hands-on learning?
+
+Use the [visual learning guide](docs/visual-learning-resources.md) for Learn Git Branching, Oh My Git!, and GitHub's interactive courses. It also explains where optional paid data-center games fit. Try the [seven chapter missions](practice/visual-missions.md), [Git diagrams](docs/visual-git-and-github.md), and three new labs linked from the [table of contents](CONTENTS.md).
+
 ## How I passed without dumps
 
 I passed GH-900 using Microsoft Learn, AI-assisted practice, occasional follow-along videos, and Anki flashcards. I did not use exam dumps.
