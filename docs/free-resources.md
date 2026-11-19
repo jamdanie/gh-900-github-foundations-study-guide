@@ -29,3 +29,9 @@ The reading and linked public video are available without buying a course. Hoste
 Use official practice assessments and original questions that explain their reasoning. Skip collections advertised as actual exam questions, recalled questions, dumps, or guaranteed passes. A high score from recognizing repeated answers is not the same as understanding a new scenario.
 
 A useful resource tells you what feature applies and why. If an explanation conflicts with current documentation, check its date and assumptions before turning it into a flashcard.
+
+## Visual and interactive alternatives
+
+For a browser Git simulator, an open-source Git game, and direct GitHub Skills course links, use the [visual learning resource guide](visual-learning-resources.md). Start with its free options and follow [lab 11](../labs/11-visual-git-challenge.md) to connect actions with observations.
+
+The guide separately labels optional paid Steam simulations. They can supply scenarios for a GitHub documentation exercise, but they are not required resources or verified GH-900 training. No purchase is needed to complete the [observation-to-PR lab](../labs/13-observation-to-pull-request.md).
