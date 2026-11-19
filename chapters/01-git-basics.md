@@ -31,6 +31,10 @@ Saving and committing both preserve something, but they preserve different thing
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Visual branch practice
+
+Use [Learn Git Branching or Oh My Git!](../docs/visual-learning-resources.md) with [lab 11](../labs/11-visual-git-challenge.md). Predict the change before clicking or typing. Then use [lab 12](../labs/12-read-a-local-history.md) to compare a real local history with the [branch diagram](../docs/visual-git-and-github.md). Explain which actions created history and which changed your current position.
+
 ## Practice and review
 
 Explain why a new local commit may not appear on GitHub. Then describe how you would check the branch and remote before trying another command.
