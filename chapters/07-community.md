@@ -30,6 +30,10 @@ Starring, watching, and sponsoring have different purposes. Saving a repository 
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Learn from a project's contribution route
+
+Explore an open-source learning tool listed in the [visual resource guide](../docs/visual-learning-resources.md). Read its contribution guidance and identify one question you would need answered before proposing a change. Write the proposal in your own notes first. Describe a submitted contribution only if you actually submit one; a game completion is not a contribution to its source repository.
+
 ## Practice and review
 
 Describe a documentation contribution you could make without claiming you already completed it. Explain how you would keep the change focused and verify the result.
