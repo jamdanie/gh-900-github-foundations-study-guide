@@ -31,6 +31,10 @@ A repository role is not the same as an organization owner role. Likewise, a wor
 
 The linked guides include product documentation and sources. Use the [official topic outline](../docs/exam-outline.md) for scope; this chapter is a reading route, not a complete replacement for the official objectives.
 
+## Practice access decisions on paper first
+
+Use fictional requests: one person needs to read documentation and another needs to propose an edit on a repository branch. Explain the appropriate access for each using [the team lab](../labs/04-team-management.md). This mission does not require changing anyone's permissions. Keep credentials out of screenshots and follow the [evidence guide](../practice/learning-evidence.md).
+
 ## Practice and review
 
 Explain why an exposed token needs to be revoked or rotated even after its visible text is deleted. Then explain why giving someone Admin access is not a routine fix for every access problem.
