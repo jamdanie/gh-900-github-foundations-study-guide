@@ -35,3 +35,13 @@ If you choose to change an authentication setting, follow GitHub's current instr
 Evidence: a short explanation of authentication versus authorization and the reason for an app's repository scope. Keep credentials and account recovery details out of the record.
 
 Sources: [Passkeys](https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys), [2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication), [OAuth authorization](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps), [installed app access](https://docs.github.com/en/apps/using-github-apps/reviewing-and-modifying-installed-github-apps).
+
+## Check the result before moving on
+
+Can you explain authentication and app authorization without exposing account details?
+
+Write a fictional example of signing in and a separate example of an application's repository scope.
+
+If you get stuck: If your evidence includes recovery codes, tokens, or private keys, remove those details. The exercise does not require weakening sign-in protection.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
