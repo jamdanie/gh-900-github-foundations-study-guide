@@ -59,3 +59,13 @@ Evidence to keep: your commit, PR, and a short explanation of local versus remot
 Sources: [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow), [VS Code source control](https://code.visualstudio.com/docs/sourcecontrol/overview), [Git in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio).
 
 If the steps feel unfamiliar, read [where your Git changes go](../docs/git-step-by-step.md) alongside this lab. It explains what each command changes and how to inspect the result.
+
+## Check the result before moving on
+
+Can you locate the same commit locally and on your pushed study branch?
+
+Use the local log and GitHub's branch selector. Compare the commit identifier, not just similar wording. After merging, inspect main separately.
+
+If you get stuck: If the commit is local only, inspect the push result and remote. If it is on the study branch only, confirm whether the PR has merged.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
