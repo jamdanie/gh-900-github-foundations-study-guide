@@ -57,3 +57,13 @@ Explain why both branches share the first commit and why switching to main did n
 Keep a brief explanation and the graph output if useful. You can leave this disposable repository in place for later practice; the lab does not require deleting files or changing your main study-guide clone.
 
 Sources: [Git merge](https://git-scm.com/docs/git-merge), [Git log](https://git-scm.com/docs/git-log). Compare with the [visual guide](../docs/visual-git-and-github.md).
+
+## Check the result before moving on
+
+Can you identify the shared starting commit and the two lines of work?
+
+Use the graph output and inspect both note files after the merge. Explain why switching branches and merging are different actions.
+
+If you get stuck: If your history looks different, compare the actual sequence with the lab. Do not rewrite it merely to imitate the picture; explain the difference first.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
