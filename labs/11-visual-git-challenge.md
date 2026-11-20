@@ -27,3 +27,13 @@ Complete [lab 12](12-read-a-local-history.md) in a new local folder. Compare its
 Completion means you can explain one branch operation in your own words. It does not require a particular game score. Advanced rebase and history-rewriting levels are optional enrichment, not a requirement to complete this beginner lab.
 
 Sources: the linked tool maintainers. Resource comparison: [visual learning guide](../docs/visual-learning-resources.md).
+
+## Check the result before moving on
+
+Can you explain one unexpected graph change?
+
+Describe your prediction, the action, and what moved. Translate the result into a repository concept rather than only naming a game control.
+
+If you get stuck: If the tool rejects a command, read its supported interface. Compare with installed Git before claiming the command itself is invalid.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
