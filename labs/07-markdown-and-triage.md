@@ -27,3 +27,13 @@ Expected evidence: a rendered issue, two filter results showing the effect of a 
 If the search is empty, check the repository scope, issue state, assignee, and exact label name. If the Markdown is displayed literally, inspect whether you accidentally wrapped the whole issue body in a code fence.
 
 Sources: [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [search](https://docs.github.com/en/search-github/searching-on-github/searching-issues-and-pull-requests), [notifications](https://docs.github.com/en/subscriptions-and-notifications/concepts/about-notifications).
+
+## Check the result before moving on
+
+Does changing the filter change the result rather than delete the issue?
+
+Open the issue directly after removing its label, then compare the labeled search. The issue can exist while being excluded by the filter.
+
+If you get stuck: If results are empty unexpectedly, inspect scope, state, assignee, and exact label. Verify the rendered Markdown separately from the search.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
