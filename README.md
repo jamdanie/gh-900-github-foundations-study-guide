@@ -94,3 +94,7 @@ The repository includes a development-container configuration, a CI workflow tha
 Source review: November 13, 2026. The official exam guide and product documentation can change. This is an independent study project, not an official Microsoft or GitHub course.
 
 Study topics: GH-900, GitHub Foundations certification, Git, GitHub Actions, Projects, Codespaces, Copilot, VS Code, Visual Studio, Anki, and free exam preparation.
+
+## Need a smaller task or help with a failed lab?
+
+Choose a [hands-on learning route](practice/choose-your-learning-route.md), use the [troubleshooting guide](docs/troubleshooting-first-steps.md), or try [eight failure-investigation challenges](practice/troubleshooting-challenges.md). Each lab now includes a result checkpoint so you can explain what worked before moving on.
