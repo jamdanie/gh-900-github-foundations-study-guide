@@ -28,3 +28,13 @@ A branch graph can support a claim about that Git exercise. A game screenshot ca
 The useful GitHub evidence is the issue, note, commit, PR discussion, and review reasoning. If you worked alone, describe it as a self-review.
 
 Use the [evidence guide](../practice/learning-evidence.md) to write a short result statement. Related walkthrough: [lab 10](10-review-a-pull-request.md). GitHub reference: [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow).
+
+## Check the result before moving on
+
+Does the note accurately separate observation from conclusion?
+
+Identify the activity, observed result, and limitation. Point to the PR diff and describe your review as a self-review if you worked alone.
+
+If you get stuck: If there was no workflow, state that fact. If the observation came from a game, retain the simulation label when describing the result.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
