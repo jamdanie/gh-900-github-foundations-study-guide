@@ -23,3 +23,13 @@ Explain the difference between asking AI for test code and Actions actually runn
 Evidence to keep: a short action-versus-app comparison and one AI suggestion you checked against a real test. You do not need to install a paid app or publish private chat history.
 
 Sources: [Actions versus apps](https://docs.github.com/en/actions/get-started/actions-vs-apps), [choosing actions](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/find-and-customize-actions), [secure use](https://docs.github.com/en/actions/reference/security/secure-use).
+
+## Check the result before moving on
+
+Did a proposed test actually execute?
+
+Separate the AI suggestion, the test you accepted, and the command output. Explain what behavior the test checks.
+
+If you get stuck: If an AI edit changes expected behavior merely to pass, review the requirement before accepting it. If you only inspected an app, do not claim it was installed.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
