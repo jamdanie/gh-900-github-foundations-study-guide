@@ -61,3 +61,11 @@ The different exercise sets are separate. They are original study material, not 
 - [Lab 13: Turn an observation into a reviewed note](labs/13-observation-to-pull-request.md)
 - [Seven chapter missions](practice/visual-missions.md)
 - [Show what you actually learned](practice/learning-evidence.md)
+
+## Troubleshooting and guided sessions
+
+- [First inspections for Git, Actions, and Projects](docs/troubleshooting-first-steps.md)
+- [Eight troubleshooting challenges with explanations](practice/troubleshooting-challenges.md)
+- [Choose a visual or hands-on learning route](practice/choose-your-learning-route.md)
+
+Every numbered lab now includes a result checkpoint and a starting point for investigating an unexpected outcome.
