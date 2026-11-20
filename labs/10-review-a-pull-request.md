@@ -16,3 +16,13 @@ Expected evidence: a diff you can explain, a workflow result for the current com
 If the wrong commit was checked, look at the newer run. If a draft cannot merge, that is expected. If another requirement remains, identify it rather than bypassing it for the exercise.
 
 Source: [Pull requests](https://docs.github.com/en/pull-requests/reference/pull-requests). See [repository insights and security tools](../docs/insights-and-security-tools.md) for more ways to interpret the evidence.
+
+## Check the result before moving on
+
+Did you review the current revision?
+
+Match the PR's latest change with the run you inspected. Describe one content check you performed manually.
+
+If you get stuck: If the PR changed after your review, inspect that new diff and run. Do not reuse an older green result as evidence for the new commit.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
