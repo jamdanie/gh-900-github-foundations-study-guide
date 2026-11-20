@@ -28,3 +28,13 @@ Save a short reply explaining how contributors should report unclear questions a
 Evidence to keep: the issue, PR, and the before/after board state. Explain why you used a Project field, a label, and a milestone for different purposes.
 
 Sources: [About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects), [Project automation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project).
+
+## Check the result before moving on
+
+Did the issue close before the Project item moved?
+
+Record the issue state and Project status separately, then explain which configured workflow connects them.
+
+If you get stuck: If only one changed, check that stage of the process. A manually moved card does not demonstrate the issue-closed automation.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
