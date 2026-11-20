@@ -70,3 +70,13 @@ Why did editing different branches not prevent this conflict? Why is accepting e
 In Visual Studio or VS Code, a merge editor may offer current, incoming, or combined choices. Review the resulting file regardless of which control you use. A conflict-free file can still contain incorrect logic or wording.
 
 Sources: [Git merge](https://git-scm.com/docs/git-merge), [GitHub merge conflicts](https://docs.github.com/en/pull-requests/reference/merge-conflicts).
+
+## Check the result before moving on
+
+Did you resolve the meaning as well as remove the markers?
+
+Read the final sentence, inspect the recorded merge, and check that the working tree is clean. Explain why the final wording was chosen.
+
+If you get stuck: If the merge remains unresolved, inspect status and the staged resolution. Removing visible markers alone does not complete the Git merge.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
