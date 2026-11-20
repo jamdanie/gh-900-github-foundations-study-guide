@@ -47,3 +47,13 @@ Expected: the local link check passes and the README opens the new path on your 
 Keep the PR and a short explanation of why a file rename can require edits in other files. This is optional hands-on practice, not a requirement to memorize a command flag for GH-900.
 
 Sources: [Iterations](https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields), [milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones), [renaming files](https://docs.github.com/en/repositories/working-with-files/managing-files/renaming-a-file).
+
+## Check the result before moving on
+
+Does README open the renamed note on the branch being reviewed?
+
+Run the local target checker and open the link. Compare the filename and link spelling, including capitalization.
+
+If you get stuck: If the checker reports the old path, find the reference that still uses it. A roadmap change will not repair a file link.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
