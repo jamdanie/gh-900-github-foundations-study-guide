@@ -56,3 +56,13 @@ Where your plan and repository visibility support it, inspect required reviewers
 Evidence to keep: one failed run, the fix commit, a passing run, and the sandbox summary. Explain which part tested code and which part demonstrated environment configuration.
 
 Sources: [Actions concepts](https://docs.github.com/en/actions/get-started/understand-github-actions), [Codespaces](https://docs.github.com/en/codespaces/about-codespaces/what-are-codespaces), [deployment environments](https://docs.github.com/en/actions/how-tos/deploy/configure-and-manage-deployments/manage-environments).
+
+## Check the result before moving on
+
+Can you distinguish the deliberate failure from the successful fix?
+
+Identify the failed assertion in the earlier run and the passing result for the corrected commit. Keep the sandbox summary separate from test evidence.
+
+If you get stuck: If the manual run is unavailable, check the default-branch workflow, workflow_dispatch trigger, and repository access. If the summary uses the fallback, inspect the variable name and scope.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
