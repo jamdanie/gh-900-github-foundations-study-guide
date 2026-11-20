@@ -23,3 +23,7 @@ If a mission fails, record the observed error and what you tried. An accurately 
 ## Choose your next mission
 
 Use the [review log](review-log.md) to record the gap and the next small task. If you cannot name the feature, return to the chapter. If you can name it but cannot demonstrate it, use the linked lab.
+
+## When the mission does not work as expected
+
+Try the [eight troubleshooting challenges](troubleshooting-challenges.md). Each changes one condition so you can test whether you understood the original result. Use [Choose a learning route](choose-your-learning-route.md) if you need a smaller starting task, then record the actual outcome in your review log.
