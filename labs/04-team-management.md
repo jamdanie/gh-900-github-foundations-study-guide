@@ -33,3 +33,13 @@ Use a disposable branch to propose a documentation change. Inspect whether a che
 Evidence to keep: the selected role and your reason, the rule you tested, and its observed effect. Do not publish member lists or access screenshots from a real workplace.
 
 Sources: [Organization teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams), [repository roles](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization).
+
+## Check the result before moving on
+
+Can you explain why the selected role fits the task?
+
+Compare the requested operation with the linked role matrix. In the solo route, an accurate written plan is enough; no invitation is required.
+
+If you get stuck: If you cannot justify a permission, narrow the task first. Do not grant Admin simply to avoid identifying the required access.
+
+Use the [troubleshooting guide](../docs/troubleshooting-first-steps.md) to choose an inspection and the [challenge workbook](../practice/troubleshooting-challenges.md) to practice the reasoning without changing a live repository.
