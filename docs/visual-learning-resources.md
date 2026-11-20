@@ -37,3 +37,7 @@ Choose one observed problem, describe the expected and actual result in an issue
 Use the [observation-to-PR lab](../labs/13-observation-to-pull-request.md) even if you do not own a game. It includes a free Git-based alternative.
 
 Sources: the linked resource maintainers and Steam publisher listings; [GitHub's learning resource directory](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources).
+
+## Use the resource in a complete session
+
+The [learning routes](../practice/choose-your-learning-route.md) connect each resource type to a task and a finish condition. After a session, use the [troubleshooting challenges](../practice/troubleshooting-challenges.md) to check whether you can explain an unfamiliar outcome. Resource availability and game features remain subject to the linked publishers' current information; a completed level is not a verified certification result.
