@@ -41,3 +41,7 @@ Choose the file you would read before reporting a vulnerability. Explain why ope
 From the repository root, use `python scripts/quiz.py --domain repositories` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Previous chapter](01-git-basics.md) · [Next chapter](03-collaboration.md)
+
+## Follow-up: what should the reader receive?
+
+Compare a current README with a tagged version and release notes using [tags and releases](../docs/tags-and-release-notes.md). Explain whether the reader needs instructions, a website, or a specific downloadable version. Use the [publishing comparison](../docs/choose-a-publishing-feature.md) to justify the choice. Release practice is supporting material, not an additional weighted exam domain.
