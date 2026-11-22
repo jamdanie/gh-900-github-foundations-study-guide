@@ -42,3 +42,7 @@ Explain what you would do if a reviewer requested one more example in an open PR
 From the repository root, use `python scripts/quiz.py --domain collaboration` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Previous chapter](02-repositories.md) · [Next chapter](04-modern-development.md)
+
+## Follow-up: review a diagram and its claim
+
+Complete [lab 14](../labs/14-explain-with-a-diagram.md), then try the [simulation case study](../practice/simulation-case-study.md). Review both the diagram's syntax and the meaning of its labels. A rendered picture can still communicate an unsupported conclusion. Compare your review with the [worked example](../practice/worked-simulation-review.md).
