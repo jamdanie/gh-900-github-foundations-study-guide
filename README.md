@@ -98,3 +98,7 @@ Study topics: GH-900, GitHub Foundations certification, Git, GitHub Actions, Pro
 ## Need a smaller task or help with a failed lab?
 
 Choose a [hands-on learning route](practice/choose-your-learning-route.md), use the [troubleshooting guide](docs/troubleshooting-first-steps.md), or try [eight failure-investigation challenges](practice/troubleshooting-challenges.md). Each lab now includes a result checkpoint so you can explain what worked before moving on.
+
+## Practice a complete documentation change
+
+Try the [fictional simulation case study](practice/simulation-case-study.md): inspect supplied observations, write a diagram, track the task, and review a PR. It works without buying a game. The [ten visual recall cards](practice/visual-recall.md) include a separate Anki import file.
