@@ -69,3 +69,12 @@ The different exercise sets are separate. They are original study material, not 
 - [Choose a visual or hands-on learning route](practice/choose-your-learning-route.md)
 
 Every numbered lab now includes a result checkpoint and a starting point for investigating an unexpected outcome.
+
+## Publishing and simulation case study
+
+- [Choose where to share your work](docs/choose-a-publishing-feature.md)
+- [Tags and release notes](docs/tags-and-release-notes.md)
+- [Lab 14: Explain one relationship with a diagram](labs/14-explain-with-a-diagram.md)
+- [Fictional data-center simulation case study](practice/simulation-case-study.md)
+- [Worked review and corrected conclusion](practice/worked-simulation-review.md)
+- [Ten short-answer recall cards and Anki import](practice/visual-recall.md)
