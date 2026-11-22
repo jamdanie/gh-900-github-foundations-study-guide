@@ -46,3 +46,9 @@ Try the [eight beginner checks](beginner-checks.md) if the terms still feel unfa
 Try the [seven hands-on missions](visual-missions.md) when reading alone is not helping. Use the [visual resource guide](../docs/visual-learning-resources.md) to choose a browser simulation, a downloadable Git game, or an official repository-based course. Keep a small [evidence note](learning-evidence.md) explaining what changed and what you checked.
 
 These missions supplement the existing question bank and flashcards; they do not change the quiz or Anki card counts.
+
+## Apply the workflow to one case
+
+The [simulation case study](simulation-case-study.md) provides a fictional scenario and asks you to turn observations into a reviewed note. Compare your result with the [worked review](worked-simulation-review.md). No game purchase or actual infrastructure changes are needed.
+
+The [visual recall set](visual-recall.md) adds ten short-answer cards with a separate TSV download. These do not change the existing 35-question CLI quiz or its Anki file.
