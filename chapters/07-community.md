@@ -41,3 +41,7 @@ Describe a documentation contribution you could make without claiming you alread
 From the repository root, use `python scripts/quiz.py --domain community` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Previous chapter](06-security-administration.md)
+
+## Follow-up: make your contribution easy to use
+
+Choose whether a reader needs an overview, detailed documentation, a snippet, or a website with the [publishing comparison](../docs/choose-a-publishing-feature.md). Before proposing a new publishing format, check the project's existing approach. A focused correction in its current documentation may solve the reader's problem without adding another site to maintain.
