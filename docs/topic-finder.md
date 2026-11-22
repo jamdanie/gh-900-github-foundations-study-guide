@@ -29,3 +29,12 @@ Use the middle column to choose the question you need answered. For an ordered r
 | Timelines | Dates, iterations, and roadmap views | [Read](../labs/08-timeline-and-file-maintenance.md) |
 
 If two terms seem interchangeable, explain what each changes and where the change happens. The [common decisions guide](common-decisions.md) works through these comparisons.
+
+## Publishing and visual documentation
+
+| Need | Open |
+| --- | --- |
+| Choose README, Wiki, Gist, Pages, or release | [Publishing comparison](choose-a-publishing-feature.md) |
+| Understand a tag and release note | [Tags and releases](tags-and-release-notes.md) |
+| Create and explain a diagram | [Diagram lab](../labs/14-explain-with-a-diagram.md) |
+| Review a simulation-based claim | [Worked review](../practice/worked-simulation-review.md) |
