@@ -1,0 +1,10 @@
+What separates a branch from a tag?	A branch supports an ongoing line of work; a tag names a particular point in history. Use the purpose of the reference to decide which fits.	gh900 visual_practice repositories
+Does publishing a release create a Pages website?	No. A release packages a version with notes and assets. Pages publishes static website content. They address different reader tasks.	gh900 visual_practice repositories
+What should accompany a learning diagram?	A text explanation of the same relationship, meaningful labels, and a check that arrow directions agree with the explanation.	gh900 visual_practice collaboration
+What can one simulated link-failure observation establish?	It supports a statement about that tested condition. It does not prove the behavior of every other path or a real production system.	gh900 visual_practice evidence
+Where should a project reader look first for an overview?	The README is a usual starting point for purpose, setup, and navigation. Detailed supporting material can live in linked documentation.	gh900 visual_practice repositories
+Why might a release differ from the latest branch content?	A release is based on a particular tag, while the branch may have received additional commits afterward.	gh900 visual_practice repositories
+Does a diagram rendering successfully prove its conclusion?	No. Rendering shows that the syntax can be displayed. The drawing and its claims still need to agree with the evidence.	gh900 visual_practice collaboration
+What is a useful finish condition for the simulation note?	The note and diagram identify the observed condition, action, result, and untested conditions without claiming production experience.	gh900 visual_practice evidence
+What is the difference between merging a report and fixing a service?	Merging integrates the report's file changes. It does not itself perform or validate an infrastructure repair.	gh900 visual_practice collaboration
+What should be recorded if no automated check ran?	State that no automated check ran and name the manual checks actually performed. Do not substitute an assumed passing result.	gh900 visual_practice evidence
