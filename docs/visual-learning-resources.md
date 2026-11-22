@@ -41,3 +41,7 @@ Sources: the linked resource maintainers and Steam publisher listings; [GitHub's
 ## Use the resource in a complete session
 
 The [learning routes](../practice/choose-your-learning-route.md) connect each resource type to a task and a finish condition. After a session, use the [troubleshooting challenges](../practice/troubleshooting-challenges.md) to check whether you can explain an unfamiliar outcome. Resource availability and game features remain subject to the linked publishers' current information; a completed level is not a verified certification result.
+
+## No game available? Use the supplied case
+
+The [simulation case study](../practice/simulation-case-study.md) includes fictional observations you can analyze without installing anything. Its topology and result are exercise material, not verified behavior of either Steam title above. Use it to practice a diagram, issue, branch, and PR. If you later use a game, replace the supplied observations only with what you actually saw.
