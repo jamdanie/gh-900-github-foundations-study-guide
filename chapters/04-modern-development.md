@@ -41,3 +41,7 @@ Identify the event, job, runner, and steps in this repository's checks workflow.
 From the repository root, use `python scripts/quiz.py --domain modern` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Previous chapter](03-collaboration.md) · [Next chapter](05-project-management.md)
+
+## Test the decision in a new situation
+
+Open the [modern development decision round](../practice/decision-rounds/modern.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
