@@ -40,3 +40,7 @@ Choose an iteration for recurring study periods and a date field for one planned
 From the repository root, use `python scripts/quiz.py --domain projects` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Previous chapter](04-modern-development.md) · [Next chapter](06-security-administration.md)
+
+## Test the decision in a new situation
+
+Open the [project management decision round](../practice/decision-rounds/projects.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
