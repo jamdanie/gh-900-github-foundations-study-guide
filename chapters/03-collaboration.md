@@ -46,3 +46,7 @@ From the repository root, use `python scripts/quiz.py --domain collaboration` fo
 ## Follow-up: review a diagram and its claim
 
 Complete [lab 14](../labs/14-explain-with-a-diagram.md), then try the [simulation case study](../practice/simulation-case-study.md). Review both the diagram's syntax and the meaning of its labels. A rendered picture can still communicate an unsupported conclusion. Compare your review with the [worked example](../practice/worked-simulation-review.md).
+
+## Test the decision in a new situation
+
+Open the [collaboration decision round](../practice/decision-rounds/collaboration.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
