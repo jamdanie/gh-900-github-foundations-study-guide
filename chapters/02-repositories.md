@@ -45,3 +45,7 @@ From the repository root, use `python scripts/quiz.py --domain repositories` for
 ## Follow-up: what should the reader receive?
 
 Compare a current README with a tagged version and release notes using [tags and releases](../docs/tags-and-release-notes.md). Explain whether the reader needs instructions, a website, or a specific downloadable version. Use the [publishing comparison](../docs/choose-a-publishing-feature.md) to justify the choice. Release practice is supporting material, not an additional weighted exam domain.
+
+## Test the decision in a new situation
+
+Open the [working with repositories decision round](../practice/decision-rounds/repositories.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
