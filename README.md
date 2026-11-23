@@ -102,3 +102,7 @@ Choose a [hands-on learning route](practice/choose-your-learning-route.md), use 
 ## Practice a complete documentation change
 
 Try the [fictional simulation case study](practice/simulation-case-study.md): inspect supplied observations, write a diagram, track the task, and review a PR. It works without buying a game. The [ten visual recall cards](practice/visual-recall.md) include a separate Anki import file.
+
+## Practice choosing the right feature
+
+The [seven chapter decision rounds](practice/decision-rounds/README.md) add 14 original questions with explanations for every choice, small hands-on challenges, and a separate Anki deck. Use them after a chapter, then change one requirement and explain how your choice changes.
