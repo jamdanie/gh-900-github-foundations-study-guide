@@ -42,3 +42,7 @@ Explain why a new local commit may not appear on GitHub. Then describe how you w
 From the repository root, use `python scripts/quiz.py --domain basics` for the existing five-question domain sample. The sample is not a readiness prediction. Record what you could explain and what still needs practice in the [review log](../practice/review-log.md).
 
 [Table of contents](../CONTENTS.md) · [Next chapter](02-repositories.md)
+
+## Test the decision in a new situation
+
+Open the [git and github basics decision round](../practice/decision-rounds/basics.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
