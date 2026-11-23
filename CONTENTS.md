@@ -78,3 +78,15 @@ Every numbered lab now includes a result checkpoint and a starting point for inv
 - [Fictional data-center simulation case study](practice/simulation-case-study.md)
 - [Worked review and corrected conclusion](practice/worked-simulation-review.md)
 - [Ten short-answer recall cards and Anki import](practice/visual-recall.md)
+
+## Chapter decision rounds
+
+[Open all seven rounds](practice/decision-rounds/README.md) for 14 original questions with explanations, domain challenges, and a separate Anki deck.
+
+- [Git and GitHub basics](practice/decision-rounds/basics.md)
+- [Working with repositories](practice/decision-rounds/repositories.md)
+- [Collaboration](practice/decision-rounds/collaboration.md)
+- [Modern development](practice/decision-rounds/modern.md)
+- [Project management](practice/decision-rounds/projects.md)
+- [Security and administration](practice/decision-rounds/security.md)
+- [Community](practice/decision-rounds/community.md)
