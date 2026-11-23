@@ -45,3 +45,7 @@ From the repository root, use `python scripts/quiz.py --domain community` for th
 ## Follow-up: make your contribution easy to use
 
 Choose whether a reader needs an overview, detailed documentation, a snippet, or a website with the [publishing comparison](../docs/choose-a-publishing-feature.md). Before proposing a new publishing format, check the project's existing approach. A focused correction in its current documentation may solve the reader's problem without adding another site to maintain.
+
+## Test the decision in a new situation
+
+Open the [community decision round](../practice/decision-rounds/community.md) for two original questions and a hands-on challenge. Explain why each alternative does not fit, then change one requirement to make a different choice appropriate. The [companion Anki deck](../practice/decision-rounds/README.md) includes these questions with explanations for every option.
