@@ -6,6 +6,7 @@
 
 | What you need | Start here |
 | --- | --- |
+| Complete a task with a worked example and finish check | [Eight hands-on challenges](hands-on-challenges/README.md) |
 | Explain a basic next step | [Eight beginner checks](beginner-checks.md) |
 | Review one small concept | [Thirty topic cards](cards/README.md) |
 | Apply a concept when a requirement changes | [Ten scenarios](scenario-workbook.md) |
@@ -52,3 +53,7 @@ These missions supplement the existing question bank and flashcards; they do not
 The [simulation case study](simulation-case-study.md) provides a fictional scenario and asks you to turn observations into a reviewed note. Compare your result with the [worked review](worked-simulation-review.md). No game purchase or actual infrastructure changes are needed.
 
 The [visual recall set](visual-recall.md) adds ten short-answer cards with a separate TSV download. These do not change the existing 35-question CLI quiz or its Anki file.
+
+## Apply a changed requirement
+
+The [chapter decision rounds](decision-rounds/README.md) contain 14 separate multiple-choice questions and their own Anki file. The [hands-on challenge pack](hands-on-challenges/README.md) adds eight practical tasks, including a browser-only edit, a history investigation, and a fictional game experiment. It does not add cards to any existing deck.
