@@ -45,3 +45,9 @@ The [learning routes](../practice/choose-your-learning-route.md) connect each re
 ## No game available? Use the supplied case
 
 The [simulation case study](../practice/simulation-case-study.md) includes fictional observations you can analyze without installing anything. Its topology and result are exercise material, not verified behavior of either Steam title above. Use it to practice a diagram, issue, branch, and PR. If you later use a game, replace the supplied observations only with what you actually saw.
+
+## Give the session a specific goal
+
+Use [the controlled observation challenge](../practice/hands-on-challenges/04-game-experiment.md) to plan one change and compare its result. It includes fictional trials for readers without a game. Then use [the visual evidence challenge](../practice/hands-on-challenges/07-readable-evidence.md) to write a caption that explains what the image proves and what it doesn't.
+
+For GitHub practice after playing, [the board-card challenge](../practice/hands-on-challenges/05-project-acceptance.md) turns the note into a task with concrete finish conditions. The [worked diff review](../practice/hands-on-challenges/03-review-the-diff.md) shows how to challenge an unsupported conclusion respectfully.
