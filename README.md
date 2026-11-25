@@ -18,7 +18,7 @@ Each chapter has key terms, a worked example, common points of confusion, and di
 
 ## Prefer visual or hands-on learning?
 
-Use the [visual learning guide](docs/visual-learning-resources.md) for Learn Git Branching, Oh My Git!, and GitHub's interactive courses. It also explains where optional paid data-center games fit. Try the [seven chapter missions](practice/visual-missions.md), [Git diagrams](docs/visual-git-and-github.md), and three new labs linked from the [table of contents](CONTENTS.md).
+Use the [visual learning guide](docs/visual-learning-resources.md) for Learn Git Branching, Oh My Git!, and GitHub's interactive courses. It also explains where optional paid data-center games fit. Try the [eight hands-on challenges](practice/hands-on-challenges/README.md), [seven chapter missions](practice/visual-missions.md), or [Git diagrams](docs/visual-git-and-github.md). The challenge pack includes browser editing, file history, a simulated experiment, and worked review examples.
 
 ## How I passed without dumps
 
@@ -95,14 +95,15 @@ Source review: November 13, 2026. The official exam guide and product documentat
 
 Study topics: GH-900, GitHub Foundations certification, Git, GitHub Actions, Projects, Codespaces, Copilot, VS Code, Visual Studio, Anki, and free exam preparation.
 
-## Need a smaller task or help with a failed lab?
+## Choose your next practice session
 
-Choose a [hands-on learning route](practice/choose-your-learning-route.md), use the [troubleshooting guide](docs/troubleshooting-first-steps.md), or try [eight failure-investigation challenges](practice/troubleshooting-challenges.md). Each lab now includes a result checkpoint so you can explain what worked before moving on.
+| Your next step | Go here |
+| --- | --- |
+| Complete a small task with a clear finish check | [Eight hands-on challenges](practice/hands-on-challenges/README.md) |
+| Choose a tool and session plan | [Hands-on learning routes](practice/choose-your-learning-route.md) |
+| Investigate a failed lab | [Troubleshooting guide](docs/troubleshooting-first-steps.md) and [eight challenges](practice/troubleshooting-challenges.md) |
+| Work through a complete documentation change | [Fictional simulation case](practice/simulation-case-study.md) and [worked review](practice/worked-simulation-review.md) |
+| Practice short-answer recall | [Ten visual recall cards and Anki deck](practice/visual-recall.md) |
+| Choose between features as requirements change | [Seven chapter decision rounds and 14-question Anki deck](practice/decision-rounds/README.md) |
 
-## Practice a complete documentation change
-
-Try the [fictional simulation case study](practice/simulation-case-study.md): inspect supplied observations, write a diagram, track the task, and review a PR. It works without buying a game. The [ten visual recall cards](practice/visual-recall.md) include a separate Anki import file.
-
-## Practice choosing the right feature
-
-The [seven chapter decision rounds](practice/decision-rounds/README.md) add 14 original questions with explanations for every choice, small hands-on challenges, and a separate Anki deck. Use them after a chapter, then change one requirement and explain how your choice changes.
+These sets are separate from the 35-question CLI bank. Start with one format and use your explanation of the result to decide what to study next.
