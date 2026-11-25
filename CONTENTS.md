@@ -4,6 +4,8 @@ Read the chapters in order or jump straight to a weak topic. Each chapter introd
 
 The seven chapter groups follow the [official GH-900 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900), checked November 18, 2026. See the [exam map](docs/exam-map.md) for weighting and the [objective checklist](docs/exam-outline.md) for detailed coverage.
 
+[Chapters](#chapters) · [References](#reference-desk) · [Labs](#labs-in-order) · [Practice](#practice-and-review) · [Visual resources](#visual-learning-and-hands-on-challenges) · [Troubleshooting](#troubleshooting-and-guided-sessions) · [Simulation](#publishing-and-simulation-case-study) · [Decision rounds](#chapter-decision-rounds)
+
 ## Chapters
 
 | Chapter | Topic | Quick jump |
@@ -37,8 +39,14 @@ The seven chapter groups follow the [official GH-900 study guide](https://learn.
 8. [Timelines and file maintenance](labs/08-timeline-and-file-maintenance.md)
 9. [Merge conflicts](labs/09-merge-conflicts.md)
 10. [Pull request review](labs/10-review-a-pull-request.md)
+11. [Predict, observe, explain](labs/11-visual-git-challenge.md)
+12. [Read a local commit graph](labs/12-read-a-local-history.md)
+13. [Turn an observation into a reviewed note](labs/13-observation-to-pull-request.md)
+14. [Explain one relationship with a diagram](labs/14-explain-with-a-diagram.md)
 
 ## Practice and review
+
+- [Eight hands-on challenges with worked examples](practice/hands-on-challenges/README.md)
 
 - [Practice guide and quiz instructions](practice/README.md)
 - [35 multiple-choice questions with explanations](practice/questions.md)
@@ -49,8 +57,6 @@ The seven chapter groups follow the [official GH-900 study guide](https://learn.
 - [Review log and next-session method](practice/review-log.md)
 
 The different exercise sets are separate. They are original study material, not recalled exam questions or a comprehensive mock exam.
-
-[Back to the main page](README.md)
 
 ## Visual learning and hands-on challenges
 
@@ -90,3 +96,5 @@ Every numbered lab now includes a result checkpoint and a starting point for inv
 - [Project management](practice/decision-rounds/projects.md)
 - [Security and administration](practice/decision-rounds/security.md)
 - [Community](practice/decision-rounds/community.md)
+
+[Back to the main page](README.md)
