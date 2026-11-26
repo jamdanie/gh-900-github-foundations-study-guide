@@ -26,3 +26,7 @@ Start with [free Git visualizations](../../docs/visual-learning-resources.md) if
 Write what you predicted, what you did, what you saw, and what you still cannot conclude. Label supplied data as fictional. Label solo inspection as self-review. Use [challenge 8](08-progress-check.md) to choose the next step from what you can explain, not just what you clicked.
 
 The exercises support parts of GH-900 study; they do not replace the [exam outline](../../docs/exam-outline.md) or establish readiness for every objective.
+
+## Continue with documentation practice
+
+The [six beginner workshops](../workshop/README.md) help you turn an observation into a reproducible report, a clear handoff, or a targeted correction. Each includes a fictional situation, worked explanation, task, and changed condition.
