@@ -98,3 +98,7 @@ Every numbered lab now includes a result checkpoint and a starting point for inv
 - [Community](practice/decision-rounds/community.md)
 
 [Back to the main page](README.md)
+
+## Beginner documentation workshop
+
+[Six worked exercises](practice/workshop/README.md) cover reproducible reports, task scope, clear explanations, handoffs, game-resource claims, and correction priorities.
