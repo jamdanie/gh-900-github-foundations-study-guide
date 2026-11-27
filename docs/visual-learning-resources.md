@@ -51,3 +51,7 @@ The [simulation case study](../practice/simulation-case-study.md) includes ficti
 Use [the controlled observation challenge](../practice/hands-on-challenges/04-game-experiment.md) to plan one change and compare its result. It includes fictional trials for readers without a game. Then use [the visual evidence challenge](../practice/hands-on-challenges/07-readable-evidence.md) to write a caption that explains what the image proves and what it doesn't.
 
 For GitHub practice after playing, [the board-card challenge](../practice/hands-on-challenges/05-project-acceptance.md) turns the note into a task with concrete finish conditions. The [worked diff review](../practice/hands-on-challenges/03-review-the-diff.md) shows how to challenge an unsupported conclusion respectfully.
+
+## Practice reading the evidence
+
+The [six visual drills](../practice/visual-drills/README.md) use small tables to practice separating observations from explanations, reading task status, spotting missing screenshot context, and acting on review feedback. Use the supplied fictional examples without a game, or apply the questions to your own recorded observations. The drills add practice tasks; they do not claim new features or verified training outcomes for the listed games.
