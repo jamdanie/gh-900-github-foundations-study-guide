@@ -60,6 +60,8 @@ The different exercise sets are separate. They are original study material, not 
 
 ## Visual learning and hands-on challenges
 
+- [Six visual reasoning drills with worked answers](practice/visual-drills/README.md)
+
 - [Free interactive resources and optional Steam games](docs/visual-learning-resources.md)
 - [Git history and PR review diagrams](docs/visual-git-and-github.md)
 - [Lab 11: Predict, observe, explain](labs/11-visual-git-challenge.md)
