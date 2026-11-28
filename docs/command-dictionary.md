@@ -69,3 +69,7 @@ GitHub CLI uses `gh`. Git uses `git`. Install and sign in to GitHub CLI only if 
 These commands require GitHub CLI and appropriate access. Check `gh help` and the [official CLI manual](https://cli.github.com/manual/) for current options.
 
 New to the sequence? Read [where your Git changes go](git-step-by-step.md) for saving, staging, committing, and pushing in order.
+
+## Watch staging change one file
+
+The [five-step staging lab](../practice/staging-lab/README.md) follows one file through a first commit, two different edits, short status output, unstaging, and a complete second commit. Its state table lets you predict the result before running each command. Use it when the difference between saved, staged, and committed work is unclear.
