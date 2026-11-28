@@ -46,6 +46,8 @@ The seven chapter groups follow the [official GH-900 study guide](https://learn.
 
 ## Practice and review
 
+- [Five-step staging lab: follow one file through Git](practice/staging-lab/README.md)
+
 - [Eight hands-on challenges with worked examples](practice/hands-on-challenges/README.md)
 
 - [Practice guide and quiz instructions](practice/README.md)
